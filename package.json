@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/qinhanwen/puppeteer/issues"
   },
-  "homepage": "https://github.com/qinhanwen/puppeteer#readme"
+  "homepage": "https://github.com/qinhanwen/puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
 }
